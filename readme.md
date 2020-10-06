@@ -1,0 +1,2 @@
+# Favorite Numbers Web App
+This small activity runs off of the http://numbersapi.com/ api to retrieve fun facts about numbers.  In this case, I have implimented the api to post the facts about your favorite number(s).  The first option is to input 1 or many numbers for a trivia fact about the number(s).  The second form will retrieve multiple facts (math, year, and trivia categories) about a single number.
